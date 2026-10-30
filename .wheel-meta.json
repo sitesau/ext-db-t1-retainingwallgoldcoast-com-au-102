@@ -1,0 +1,22 @@
+{
+  "wheel_id": 558,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-retainingwallgoldcoast-com-au-102",
+  "project": "retaining-wall-gold-coast-pros-and-cons-a99eb116c8ce792f8c9e76e",
+  "parent_t1_ref": "ext-db-t1-retainingwallgoldcoast-com-au-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining wall gold coast pros and cons",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-gold-coast-pros-and-cons-a99eb116c8ce792f8c9e76e/",
+  "tier": "T2",
+  "writeback_nonce": "36b59a3d9391ffe1",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/ext-db-t1-retainingwallgoldcoast-com-au-150/",
+      "anchor": "https://sitesau.github.io/ext-db-t1-retainingwallgoldcoast-com-au-150/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
